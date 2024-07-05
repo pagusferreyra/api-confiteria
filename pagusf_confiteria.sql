@@ -2,8 +2,8 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: mysql-pagus.alwaysdata.net
--- Generation Time: Jul 05, 2024 at 10:40 PM
+-- Host: mysql-pagusf.alwaysdata.net
+-- Generation Time: Jul 06, 2024 at 12:26 AM
 -- Server version: 10.11.8-MariaDB
 -- PHP Version: 7.4.33
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `pagus_confiteria`
+-- Database: `pagusf_confiteria`
 --
 
 -- --------------------------------------------------------
